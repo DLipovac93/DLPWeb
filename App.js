@@ -1,9 +1,9 @@
 
 function alertButton() {
-    alert("img");
+    alert("Why are you here lol");
 }
 function showContent(src, width, height, alt) {
-    var img = document.createElement("something.jpg");
+    var img = document.createElement("img");
     img.src = src;
     img.width = width;
     img.height = height;
